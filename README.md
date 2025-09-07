@@ -1,5 +1,6 @@
 # RoboFriends
 
+![image alt](https://github.com/unqYatharth/RoboFriends/blob/5cc0d40132c9cb5421db287485e3b46943059a8f/RoboFriends-Image.jpg)
 
 ### To run this app first clone it
 ### Go inside the robofriends directory
