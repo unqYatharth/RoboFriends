@@ -1,0 +1,26 @@
+.cardContainer {
+  background-color: aquamarine;
+  width: 300px;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 3px 4px 15px rgba(0, 0, 0, 0.5);
+  text-align: center;
+  transition: transform 0.1s ease-in-out, box-shadow 0.1s ease-in-out;
+  margin-bottom: 20px;
+}
+
+.cardContainer:hover {
+  transform: scale(1.05);
+  box-shadow: 6px 8px 20px rgba(0, 0, 0, 0.6);
+  cursor: pointer;
+}
+
+.cardContainer:active {
+  transform: scale(1);
+}
+
+.cardContainer img {
+  width: 200px;
+  height: 200px;
+  border-radius: 5px;
+}
