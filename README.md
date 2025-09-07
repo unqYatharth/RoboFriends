@@ -5,10 +5,10 @@
 ## Steps to Run the Project
 1. Clone the repository
    ```bash
-   git clone clone_url
+   git clone [clone_url](https://github.com/unqYatharth/RoboFriends.git)
 2. Navigate into the project folder
    ```bash
-   cd your-repo
+   cd robofriends
 3. Install Dependencies
    ```bash
    npm install
