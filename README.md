@@ -8,12 +8,11 @@
 2. Navigate into the project folder
    ```bash
    cd your-repo
-3. Install dependencies
-  ```bash
-  npm install
-
-4. Start the development server
-    ```bash
-    npm start
+3. Install Dependencies
+   ```bash
+   npm install
+4. Start the development Server
+   ```bash
+   npm start
 
 Happy Coding!!
