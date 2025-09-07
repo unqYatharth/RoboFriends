@@ -1,10 +1,19 @@
 # RoboFriends
 
 ![image alt](https://github.com/unqYatharth/RoboFriends/blob/5cc0d40132c9cb5421db287485e3b46943059a8f/RoboFriends-Image.jpg)
+## Steps to Run the Project
+1. Clone the repository
+   ```bash
+   git clone clone_url
+2. Navigate into the project folder
+   ```bash
+   cd your-repo
+3. Install dependencies
+  ```bash
+  npm install
 
-### To run this app first clone it
-### Go inside the robofriends directory
-### Run 'npm install' command <-- this will download all the essential packages required to run this app
-### Run 'npm start' command to try it
+4. Start the development server
+    ```bash
+    npm start
 
 Happy Coding!!
